@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    text-align: center;
+	width: 100%;
+    height: 100%;
+}
+
+img {
+	border-radius: 8px;
+    width: 350px;
+
+}
+
+.img2{
+    height:513px;
+}
+
+.img3{
+    height:490px;
+}
+
+button {
+    color: Grey;
+}
+
+button:hover {
+    color: Yellow;
+}
+
+h1 {
+    text-align: center;
+    color: Yellow;
+    font-family: 'verdana', fantasy;
+}
+
+p {
+    font-weight: bold;
+    font-family: 'Sora', sans-serif;
+}
